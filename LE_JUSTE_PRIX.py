@@ -3,7 +3,7 @@ from random import randint
 entier = randint(1,1000)
 
 print("""Bienvenue dans LE JUSTE PRIX \n C'est très simple, vous devez trouver 
-      le prix d'un article dont le prix est compris entre 1 et 1000€ en 10 essais : \n
+      le prix tout rond de l'article (compris entre 1 et 1000€) en 10 essais ou moins : \n
       si le nombre proposé est plus grand que le JUSTE PRIX, C'est Moins \n
       si le nombre proposé est plus petit que le JUSTE PRIX, C'est Plus\n""")
 
